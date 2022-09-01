@@ -1,5 +1,5 @@
-01 line Every 
-02 line Good 
+01 line hi 
+02 line Good
 03 line lazy 
 04 line Deserves 
 05 line guy 
